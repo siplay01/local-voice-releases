@@ -14,7 +14,7 @@
 ]]></description>
             <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.3.1.zip" length="200395018" type="application/octet-stream" sparkle:edSignature="oTvs/ClmpDD4pEGbKCbW/6uyoHcphBjNYY68ClEgAUJachs91bdKPptkS4RftTAcCmj1kSWwOPMHvLowOUmaCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Local%20Voice0.3.1-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="153022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HTh6uWMckhE8RU6gMv+GtbnMJuZhNCUqOl4qL+jIz5OP1e/ueNCdhNpY4p9c+STEqhVFp7A5J7RApNCtgHUiBA=="/>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Local-Voice0.3.1-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="153022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HTh6uWMckhE8RU6gMv+GtbnMJuZhNCUqOl4qL+jIz5OP1e/ueNCdhNpY4p9c+STEqhVFp7A5J7RApNCtgHUiBA=="/>
             </sparkle:deltas>
         </item>
         <item>
