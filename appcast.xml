@@ -3,6 +3,22 @@
     <channel>
         <title>Local Voice</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Sun, 27 Sep 2026 15:41:39 -0700</pubDate>
+            <link>https://github.com/siplay01/local-voice-releases</link>
+            <sparkle:version>0.3.2</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Local Voice 0.3.2</h2><p>New round indicator with thin voice waves.<br>History: search, play and re-transcribe saved dictations (developer mode).<br>Export Diagnostic Report in Settings (no audio, no transcript text).<br>Fix: long Russian dictations on Fast could come out garbled.</p>
+]]></description>
+            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.3.2.zip" length="200462013" type="application/octet-stream" sparkle:edSignature="LN3bI8fpsE0U34EO1/qponMCUeBcxeRapTKcFDRiQyfdmtc9ao6L3Lq0Zyg636QumswD0Pw3YCZ9A5P1aborCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Local-Voice0.3.2-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="305854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FaeWhxQ5lgWy5C91I+5lVmWOG9+wzxRuS8JNX6SKB1Bb3T3R7puIShn9RRC8m1VA6QjPFSFXMcRbzolOo1zAAA=="/>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Local-Voice0.3.2-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="305218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Lq2r4glKDaXkt4XezDy943KLKdqOSoQh4wVZ83LIc2aXtVHsOWwkTNUrjblwLJAJyqzECCtuCuB2X3H04l7nAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Sun, 27 Sep 2026 14:34:12 -0700</pubDate>
             <link>https://github.com/siplay01/local-voice-releases</link>
