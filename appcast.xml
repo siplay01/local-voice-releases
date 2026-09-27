@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Local Voice</title></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Local Voice</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Sun, 27 Sep 2026 14:27:47 -0700</pubDate>
+            <link>https://github.com/siplay01/local-voice-releases</link>
+            <sparkle:version>0.3.0</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Local Voice 0.3.0</h2><p>First version with automatic updates.<br>Minimal monochrome indicator, open at login, whisper (quiet speech) support for push-to-talk.</p>
+]]></description>
+            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.3.0.zip" length="200394701" type="application/octet-stream" sparkle:edSignature="VwGv+Yo/zexc0lIs+xa+ZnWXcNum6V8WdD4BJLf3W2YGjSOakz5iwsyzxdNxaEGRFUN36B8ECQhEHRbDjdNjBw=="/>
+        </item>
+    </channel>
+</rss>
