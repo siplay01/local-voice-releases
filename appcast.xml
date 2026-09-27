@@ -3,6 +3,21 @@
     <channel>
         <title>Local Voice</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Sun, 27 Sep 2026 14:34:12 -0700</pubDate>
+            <link>https://github.com/siplay01/local-voice-releases</link>
+            <sparkle:version>0.3.1</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Local Voice 0.3.1</h2><p>Fix: update checks no longer log a false error when you are up to date.</p>
+]]></description>
+            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.3.1.zip" length="200395018" type="application/octet-stream" sparkle:edSignature="oTvs/ClmpDD4pEGbKCbW/6uyoHcphBjNYY68ClEgAUJachs91bdKPptkS4RftTAcCmj1kSWwOPMHvLowOUmaCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Local%20Voice0.3.1-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="153022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HTh6uWMckhE8RU6gMv+GtbnMJuZhNCUqOl4qL+jIz5OP1e/ueNCdhNpY4p9c+STEqhVFp7A5J7RApNCtgHUiBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Sun, 27 Sep 2026 14:27:47 -0700</pubDate>
             <link>https://github.com/siplay01/local-voice-releases</link>
