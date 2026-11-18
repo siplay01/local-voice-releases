@@ -3,6 +3,23 @@
     <channel>
         <title>Local Voice</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Wed, 18 Nov 2026 08:16:26 -0800</pubDate>
+            <link>https://github.com/siplay01/local-voice-releases</link>
+            <sparkle:version>0.4.2</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Whiskers 0.4.2</h2><p>Simpler menu: the More submenu is gone. Show or hide the floating dot in Settings > General. Open at login, update checks and Setup were already in Settings.</p>
+]]></description>
+            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.4.2.zip" length="212163078" type="application/octet-stream" sparkle:edSignature="iFrnAebvYQniiNeIygkXhQTedqArhfvPO9dLKrbXj5EhwO8UKns2PuGYo8xfHt0cHXAbO3hX0AYwSapu1hN8Dg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.2-0.4.1.delta" sparkle:deltaFrom="0.4.1" length="180934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="btzEHtttxdGF2xFu0gS3PdHoZKlBxSBJQhv54qEJQyBb8xNqR529LQBffxLDmX1GAeqmnHYk8Z3ZRaKu9BLIDA=="/>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.2-0.4.0.delta" sparkle:deltaFrom="0.4.0" length="198634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RV7UAwuetGueeckN0PUWpss2HZCyr5etMbue9rG+a0WmQmIwsPjSJDlHJ8y8UiI4YTA8aSDhV6e9B41R0xWuDQ=="/>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.2-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8293954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UTzOkGalv+M/Zbj9yKfXjZ1Wl/peW1r8Yy4QIenqMv/Qe3B0dm7rE+7wC5lCwL6XymeMV+APrC1WTAQ1WhNYAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Wed, 18 Nov 2026 07:51:20 -0800</pubDate>
             <link>https://github.com/siplay01/local-voice-releases</link>
@@ -34,22 +51,6 @@
                 <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8285498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+aMCDLpwkCxwri4zVyet059iY6gZiJ+NxisaHq4q5ykqLiMeJuLPFwbi9Y2RP3HSVHha4e5jj8gmU5HFerhEBA=="/>
                 <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="8380742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d95KCAHx9HA1ZaH7hugoEC9Olc2odgIetsPemhAc1EQtVgaODxtGuzrF2ZmG8J2zLJU0PUhYr6iwU230sy2WDw=="/>
                 <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="8379314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="abrZJTwfuZc690XZMb9zz+4iPD0fve3lTr5/9/GUG5JvxZI0Y4bjmzXy/3p1oOQkPupdfr9ffLQSG1w84AdNCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.2</title>
-            <pubDate>Sun, 27 Sep 2026 15:41:39 -0700</pubDate>
-            <link>https://github.com/siplay01/local-voice-releases</link>
-            <sparkle:version>0.3.2</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Local Voice 0.3.2</h2><p>New round indicator with thin voice waves.<br>History: search, play and re-transcribe saved dictations (developer mode).<br>Export Diagnostic Report in Settings (no audio, no transcript text).<br>Fix: long Russian dictations on Fast could come out garbled.</p>
-]]></description>
-            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.3.2.zip" length="200462013" type="application/octet-stream" sparkle:edSignature="LN3bI8fpsE0U34EO1/qponMCUeBcxeRapTKcFDRiQyfdmtc9ao6L3Lq0Zyg636QumswD0Pw3YCZ9A5P1aborCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Local-Voice0.3.2-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="305854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FaeWhxQ5lgWy5C91I+5lVmWOG9+wzxRuS8JNX6SKB1Bb3T3R7puIShn9RRC8m1VA6QjPFSFXMcRbzolOo1zAAA=="/>
-                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Local-Voice0.3.2-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="305218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Lq2r4glKDaXkt4XezDy943KLKdqOSoQh4wVZ83LIc2aXtVHsOWwkTNUrjblwLJAJyqzECCtuCuB2X3H04l7nAw=="/>
             </sparkle:deltas>
         </item>
     </channel>
