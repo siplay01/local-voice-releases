@@ -3,6 +3,23 @@
     <channel>
         <title>Local Voice</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Tue, 17 Nov 2026 22:10:59 -0800</pubDate>
+            <link>https://github.com/siplay01/local-voice-releases</link>
+            <sparkle:version>0.4.0</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Whiskers 0.4.0</h2><p>Transcribe File now makes a report next to the file: who spoke and for how long, words, pace, longest turns and filler words, plus a transcript and subtitles labeled by speaker. It finds any number of speakers and shows each one's voice pitch. OBS recordings (mkv) with separate microphone and computer-sound tracks label you exactly and level a quiet microphone (needs ffmpeg). Also new since 0.3.2: text appears while you still hold the key, better Russian and English detection, a personal dictionary, a simpler menu and an install guide. The app is now called Whiskers.</p>
+]]></description>
+            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.4.0.zip" length="212163304" type="application/octet-stream" sparkle:edSignature="KbXWMVi7UPKiFMumNxvuB3ludkCsiyf5kslw67xtKmimN4r47V/ylFC51Z2zlgzStndO9UAHyy6fVqfsbHZDCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="8285498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+aMCDLpwkCxwri4zVyet059iY6gZiJ+NxisaHq4q5ykqLiMeJuLPFwbi9Y2RP3HSVHha4e5jj8gmU5HFerhEBA=="/>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.1.delta" sparkle:deltaFrom="0.3.1" length="8380742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d95KCAHx9HA1ZaH7hugoEC9Olc2odgIetsPemhAc1EQtVgaODxtGuzrF2ZmG8J2zLJU0PUhYr6iwU230sy2WDw=="/>
+                <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Whiskers0.4.0-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="8379314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="abrZJTwfuZc690XZMb9zz+4iPD0fve3lTr5/9/GUG5JvxZI0Y4bjmzXy/3p1oOQkPupdfr9ffLQSG1w84AdNCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Sun, 27 Sep 2026 15:41:39 -0700</pubDate>
             <link>https://github.com/siplay01/local-voice-releases</link>
@@ -32,18 +49,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/Local-Voice0.3.1-0.3.0.delta" sparkle:deltaFrom="0.3.0" length="153022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HTh6uWMckhE8RU6gMv+GtbnMJuZhNCUqOl4qL+jIz5OP1e/ueNCdhNpY4p9c+STEqhVFp7A5J7RApNCtgHUiBA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.0</title>
-            <pubDate>Sun, 27 Sep 2026 14:27:47 -0700</pubDate>
-            <link>https://github.com/siplay01/local-voice-releases</link>
-            <sparkle:version>0.3.0</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Local Voice 0.3.0</h2><p>First version with automatic updates.<br>Minimal monochrome indicator, open at login, whisper (quiet speech) support for push-to-talk.</p>
-]]></description>
-            <enclosure url="https://github.com/siplay01/local-voice-releases/releases/download/updates/LocalVoice-0.3.0.zip" length="200394701" type="application/octet-stream" sparkle:edSignature="VwGv+Yo/zexc0lIs+xa+ZnWXcNum6V8WdD4BJLf3W2YGjSOakz5iwsyzxdNxaEGRFUN36B8ECQhEHRbDjdNjBw=="/>
         </item>
     </channel>
 </rss>
